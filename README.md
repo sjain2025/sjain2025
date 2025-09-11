@@ -67,6 +67,6 @@ Lockhart at George Mason University
 ---
 
 ## 📫 Let’s Connect  
-- 📧 Send me an email: sohamj@andrew.cmu.edu
+- 📧 sohamj@andrew.cmu.edu
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sohamjain25)  
 ---
