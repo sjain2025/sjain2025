@@ -21,7 +21,7 @@
 ---
 
 ## 🔬 Research & Publications    
-- **ALS Diagnosis via EEG (EyeLS)**: Transformer-based approach, published at ICACTE 2024
+- **LapseNet: A Hybrid CNN-LSTM Approach for Accurate and Efficient Vision-Based Fall Detection**: Transformer-based approach, published at ICACTE 2024
 - **Voice Disorder Detection (ConVox)**: Multilingual deep learning model (ICBDIOTE 2025)
 - **Fall Detection (LapseNet)**: Hybrid CNN-LSTM approach, published at ICRCV 2024
 - **RexDash**: Dashboard for analyzing replica exchange molecular dynamics (George Mason University)
