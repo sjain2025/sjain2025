@@ -7,8 +7,7 @@
 ---
 
 ## 🛠️ Tech Skills  
-**Programming Languages:** <br>
-
+**Programming Languages:** Python, Java, C, C++, JavaScript, TypeScript, SQL, MATLAB
 **Frameworks & Tools:** TensorFlow, PyTorch, Keras, React, Node.js, MongoDB, Firebase, Android Studio  
 **Other:** Machine Learning, Quantum Computing, Web & Mobile Development  
 
