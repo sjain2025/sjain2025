@@ -21,11 +21,20 @@
 ---
 
 ## 🔬 Research & Publications    
-- **LapseNet: A Hybrid CNN-LSTM Approach for Accurate and Efficient Vision-Based Fall Detection**: Transformer-based approach, published at ICACTE 2024
-- **Voice Disorder Detection (ConVox)**: Multilingual deep learning model (ICBDIOTE 2025)
-- **Fall Detection (LapseNet)**: Hybrid CNN-LSTM approach, published at ICRCV 2024
-- **RexDash**: Dashboard for analyzing replica exchange molecular dynamics (George Mason University)
-- **Graph Coloring with Grover’s Algorithm**: Quantum computing research at Virginia Tech
+**LapseNet: A Hybrid CNN-LSTM Approach for Accurate and Efficient Vision-Based Fall Detection**
+  - Published in the 6th International Conference on Robotics and Computer Vision
+  - Received Best Presentation Award for exceptional oral presentation of paper
+**A Transformer-Based Approach to Diagnose Amyotrophic Lateral Sclerosis via Electroencephalogram Analysis**
+  - Published in the 17th International Conference on Advanced Computer Theory and Engineering
+  - Diagnosing ALS in two minutes via EEG analysis
+**ConVox: A Robust Deep Learning Approach for Accurate Voice Disorder Detection with Multilingual Capabilities**  
+  - Published in the 5th International Conference on Big Data, Artificial Intelligence and Internet of Things Engineering
+  - Model capable of diagnosing voice disorders in three different languages.
+**RexDash: A Comprehensive Dashboard for Analyzing the Technical Performance of Replica Exchange Molecular
+Dynamics Simulations**  
+  - First-author publication in Journal of Student-Scientists’ Research
+  - Spearheaded machine learning and replica exchange molecular dynamics research with Dr. Christopher
+Lockhart at George Mason University 
 ---
 
 ## 🏆 Honors & Awards  
