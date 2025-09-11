@@ -15,7 +15,7 @@
 
 ## 🚀 Projects  
 - [**RoutineRemind**](https://github.com/sjain2025/RoutineRemind): Patent-pending scheduling application for individuals with speech and cognitive disabilities
-- **EyeLS**: Gaze-tracking web application for ALS patients, recognized with *IEEE Technical Excellence Award*  
+- [**EyeLS**](https://github.com/sjain2025/EyeLS): Gaze-tracking web application for ALS patients, recognized with *IEEE Technical Excellence Award*  
 - **NeurOS (Vytal.AI)**: Smartphone AI platform quantifying brain health with ocular biometrics
 
 ---
