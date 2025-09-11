@@ -1,6 +1,6 @@
 # 👋  Hi, I’m Soham!  
 
-🎓 **Computer Science @ Carnegie Mellon University**
+🎓 **Computer Science @ Carnegie Mellon University** <br>
 💡 Passionate about **software development, artificial intelligence, and research**  
 📍 Based in 🏠 Virginia & 🏫 Pittsburgh 
 
