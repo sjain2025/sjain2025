@@ -1,8 +1,15 @@
-# 👋 Hi, I’m Soham Jain  
+# 👋  Hi, I’m Soham!  
 
-🎓 **CS @ Carnegie Mellon University** (Class of 2028)  
-💡 Passionate about **AI, software development, and accessibility tech**  
-📍 Based in Virginia | Open to research and development collaborations  
+🎓 **CS @ Carnegie Mellon University**
+💡 Passionate about **software development, artificial intelligence and research**  
+📍 Based in 🏠 Virginia & 🏫 Pittsburgh 
+
+---
+
+## 🚀 Projects  
+- **RoutineRemind**: Utility patent-pending scheduling app for individuals with speech & cognitive disabilities  
+- **EyeLS**: Gaze-tracking web app for ALS patients, awarded *IEEE Technical Excellence Award*  
+- **NeurOS (Vytal.AI)**: Smartphone AI platform quantifying brain health with gaze-tracking algorithms  
 
 ---
 
@@ -15,21 +22,14 @@
 
 ---
 
-## 🚀 Projects  
-- **RoutineRemind**: Utility patent-pending scheduling app for individuals with speech & cognitive disabilities  
-- **EyeLS**: Gaze-tracking web app for ALS patients, awarded *IEEE Technical Excellence Award*  
-- **NeurOS (Vytal.AI)**: Smartphone AI platform quantifying brain health with gaze-tracking algorithms  
-
----
-
-## 🏆 Achievements  
+## 🏆 Honors & Awards  
 - 🥇 **Congressional App Challenge Winner (VA-10)** — demoed app at Capitol Hill  
 - 🌍 **Meta Hacker Cup Round 2 Qualifier** (Top 10% globally, Top 100 US)  
 - 🏅 **5x Devpost Hackathon Winner**  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Technical Background  
 **Languages:** Python, Java, JavaScript/TypeScript, C/C++, SQL, MATLAB  
 **Frameworks & Tools:** TensorFlow, PyTorch, Keras, React, Node.js, MongoDB, Firebase, Android Studio  
 **Other:** Machine Learning, Quantum Computing, Web & Mobile Development  
@@ -37,8 +37,6 @@
 ---
 
 ## 📫 Let’s Connect  
-- 💻 [GitHub](https://github.com/sjain2025)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sohamjain25)  
-- 📧 sohamj@andrew.cmu.edu  
-
+- 📧 sohamj@andrew.cmu.edu
 ---
