@@ -40,19 +40,19 @@
 ---
 
 ## 🔬 Research & Publications    
-[**LapseNet: A Hybrid CNN-LSTM Approach for Accurate and Efficient Vision-Based Fall Detection**](https://ieeexplore.ieee.org/document/10758566/)  
+🖇️ [**LapseNet: A Hybrid CNN-LSTM Approach for Accurate and Efficient Vision-Based Fall Detection**](https://ieeexplore.ieee.org/document/10758566/)  
   - Published in the 6th International Conference on Robotics and Computer Vision  
   - Received Best Presentation Award for exceptional oral presentation of paper
  
-[**A Transformer-Based Approach to Diagnose Amyotrophic Lateral Sclerosis via Electroencephalogram Analysis**](https://ieeexplore.ieee.org/document/10871346)  
+🖇️ [**A Transformer-Based Approach to Diagnose Amyotrophic Lateral Sclerosis via Electroencephalogram Analysis**](https://ieeexplore.ieee.org/document/10871346)  
   - Published in the 17th International Conference on Advanced Computer Theory and Engineering
   - Diagnosing ALS in two minutes via EEG analysis
 
-[**ConVox: A Robust Deep Learning Approach for Accurate Voice Disorder Detection with Multilingual Capabilities**](https://ieeexplore.ieee.org/document/11116805/)  
+🖇️ [**ConVox: A Robust Deep Learning Approach for Accurate Voice Disorder Detection with Multilingual Capabilities**](https://ieeexplore.ieee.org/document/11116805/)  
   - Published in the 5th International Conference on Big Data, Artificial Intelligence and Internet of Things Engineering
   - Model capable of diagnosing voice disorders in three different languages.
 
-[**RexDash: A Comprehensive Dashboard for Analyzing the Technical Performance of Replica Exchange Molecular
+🖇️ [**RexDash: A Comprehensive Dashboard for Analyzing the Technical Performance of Replica Exchange Molecular
 Dynamics Simulations**](https://journals.gmu.edu/index.php/jssr/article/view/3926)  
   - First-author publication in Journal of Student-Scientists’ Research
   - Spearheaded machine learning and replica exchange molecular dynamics research with Dr. Christopher
