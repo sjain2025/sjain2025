@@ -1,4 +1,4 @@
-# 👋   Hi, I’m Soham!  
+# 👋 &nbsp; Hi, I’m Soham!  
 
 🎓 **Computer Science @ Carnegie Mellon University** <br>
 💡 Passionate about **software development, artificial intelligence, and research**  
