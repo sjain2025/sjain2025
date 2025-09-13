@@ -61,7 +61,7 @@ Lockhart at George Mason University
 
 ## 🏆 Honors & Awards  
 - 🥇 **Congressional App Challenge Winner (VA-10)** — Selected by U.S. Rep. Jennifer Wexton to demo app at Capitol Hill  
-- 🌍 **Meta Hacker Cup Round 2 Qualifier** — Top 10% globally; Top 100 in the U.S.
+- 🌍 **2x Meta Hacker Cup Round 2 Qualifier** — Top 10% globally; Top 100 in the U.S.
 - 🏅 **5x Devpost Hackathon Winner**
 
 ---
