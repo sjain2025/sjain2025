@@ -59,13 +59,6 @@ Dynamics Simulations**](https://journals.gmu.edu/index.php/jssr/article/view/392
 Lockhart at George Mason University 
 ---
 
-## 🏆 Honors & Awards  
-- 🥇 **Congressional App Challenge Winner (VA-10)** — Selected by U.S. Rep. Jennifer Wexton to demo app at Capitol Hill  
-- 🌍 **2x Meta Hacker Cup Round 2 Qualifier** — Top 10% globally; Top 100 in the U.S.
-- 🏅 **5x Devpost Hackathon Winner**
-
----
-
 ## 📫 Let’s Connect  
 - 📧 sohamj@andrew.cmu.edu
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sohamjain25)  
