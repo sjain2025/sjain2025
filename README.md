@@ -27,8 +27,6 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white)  
 
-**Other:** Web & Mobile Development, Machine Learning, Quantum Computing  
-
 ---
 
 ## 📫 Let’s Connect  
