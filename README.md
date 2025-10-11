@@ -1,4 +1,4 @@
-# Hi! I'm Soham Jain 
+# Soham Jain 
 
 🎓 **Computer Science @ Carnegie Mellon University** <br>
 💡 Passion for **software development, artificial intelligence,** and **research**  
