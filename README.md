@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Soham Jain 
 
 🎓 **Computer Science @ Carnegie Mellon University** <br>
-💡 Passions include **software development, artificial intelligence,** and **research**  
+💡 Passionate about **software development, artificial intelligence,** and **research**  
 📍 🏠 Ashburn, VA → 🏫 Pittsburgh, PA
 
 ---
