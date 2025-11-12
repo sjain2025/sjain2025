@@ -38,7 +38,7 @@
 ---
 
 ## 📫 Let’s Connect  
+- 💻 [Personal Website](https://sjain2025.github.io/)
 - 📧 sohamj@andrew.cmu.edu
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sohamjain25)  
-- 💻 [Personal Website](https://sjain2025.github.io/)
 ---
