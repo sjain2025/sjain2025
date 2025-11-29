@@ -2,7 +2,7 @@
 
 🎓 **Computer Science at Carnegie Mellon University** <br>
 💡 Passion for **software development, artificial intelligence,** and **research**  
-📍 🏠 Ashburn, VA → 🏫 Pittsburgh, PA
+📍 Ashburn, VA → Pittsburgh, PA
 
 ---
 
