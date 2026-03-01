@@ -8,6 +8,6 @@
 
 ## Let’s Connect  
 - 💻 [Personal Website](https://sjain2025.github.io/)
-- 📧 sohamj@andrew.cmu.edu
+- 📧 jainsoham01@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sohamjain25)  
 ---
