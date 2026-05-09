@@ -9,5 +9,5 @@
 ## Let’s Connect  
 - 💻 [Website](https://sjain2025.github.io/)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sohamjain25)  
-- 📧 [Email](jainsoham01@gmail.com)
+- 📧 [Email](mailto:jainsoham01@gmail.com)
 ---
