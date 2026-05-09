@@ -7,7 +7,7 @@
 ---
 
 ## Let’s Connect  
-- 💻 [Personal Website](https://sjain2025.github.io/)
-- 📧 jainsoham01@gmail.com
+- 💻 [Website](https://sjain2025.github.io/)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sohamjain25)  
+- 📧 [Email](jainsoham01@gmail.com)
 ---
