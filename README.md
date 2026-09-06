@@ -1,7 +1,7 @@
 # Soham Jain 
 
 🎓 **Computer Science @ Carnegie Mellon University** <br>
-💡 Passion for **software engineering** and **AI development**
+💡 Passion for **software engineering** and **AI development** <br>
 📍 Based in **Ashburn, VA** & **Pittsburgh, PA**
 
 ---
