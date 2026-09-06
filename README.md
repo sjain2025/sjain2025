@@ -7,7 +7,9 @@
 ---
 
 ## Connect  
-🌐 [sohamjain.dev](https://sohamjain.dev)  
-🔗 [LinkedIn](https://www.linkedin.com/in/sohamja1n)  
-📧 [jainsoham01@gmail.com](mailto:jainsoham01@gmail.com)
+<p style="font-size: 14px;">
+🌐 <a href="https://sohamjain.dev">sohamjain.dev</a><br>
+🔗 <a href="https://www.linkedin.com/in/sohamja1n">LinkedIn</a><br>
+📧 <a href="mailto:jainsoham01@gmail.com">jainsoham01@gmail.com</a>
+</p>
 ---
