@@ -7,5 +7,7 @@
 ---
 
 ## Connect  
-[Website](https://sohamjain.dev) · [LinkedIn](https://www.linkedin.com/in/sohamja1n) · [Email](mailto:jainsoham01@gmail.com)
+🌐 [sohamjain.dev](https://sohamjain.dev)  
+🔗 [LinkedIn](https://www.linkedin.com/in/sohamja1n)  
+📧 [jainsoham01@gmail.com](mailto:jainsoham01@gmail.com)
 ---
